@@ -11,7 +11,7 @@
 1. index.htnl, style.css, script.jsの作成
 2. `index.html` をブラウザで開く
 
-#ハンバーガーメニューの学習
+# ハンバーガーメニューの学習
 ## 使用技術
 - - HTML, CSS, JavaScript
 - jQuery（マウスイベントの導入）
